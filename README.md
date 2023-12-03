@@ -18,6 +18,5 @@ Last Update: 12/3/2023
 Helpful?
 
 Leave a tip here:
-![image](https://www.paypal.com/qrcodes/managed/d395f149-2ff3-4248-9052-56b0bf925eb0?utm_source=consweb_more)
 [paypal.me/JohnZherka](paypal.me/JohnZherka)
 
