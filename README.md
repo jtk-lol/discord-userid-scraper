@@ -1,6 +1,5 @@
 **////// JTKS DISCORD ID SCRAPER //////**
 
-
 Working as of 12/3/2023 
 
 Last Update: 12/3/2023
@@ -15,7 +14,9 @@ Last Update: 12/3/2023
 
 
 
-Helpful?
+**Helpful?**
+
+Make sure to leave a star!
 
 Leave a tip here:
 [paypal.me/JohnZherka](paypal.me/JohnZherka)
