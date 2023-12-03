@@ -16,7 +16,7 @@ Last Update: 12/3/2023
 
 **Helpful?**
 
-Make sure to leave a star!
+Make sure to leave a star! ⭐⭐⭐⭐⭐
 
 Leave a tip here:
 [paypal.me/JohnZherka](paypal.me/JohnZherka)
